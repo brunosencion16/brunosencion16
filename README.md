@@ -2,7 +2,7 @@
 Analista Programador Junior (UY) · C# / .NET / ASP.NET MVC · SQL Server
 
 Soy estudiante de Analista Programador en ORT (Uruguay). Me enfoco en backend .NET y apps web MVC.
-Acá vas a encontrar mis proyectos más representativos y cómo contacto.
+Acá vas a encontrar mis proyectos más representativos y cómo contactarme.
 
 ## 🌟 Proyectos destacados
 - [Sistema Aerolínea MVC](#) — Gestión de vuelos, clientes y pasajes con cálculo de precio.
