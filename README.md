@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hola, soy Bruno Sención
+Analista Programador Junior (UY) · C# / .NET / ASP.NET MVC · SQL Server
 
-<!--
-**brunosencion16/brunosencion16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Analista Programador en ORT (Uruguay). Me enfoco en backend .NET y apps web MVC.
+Acá vas a encontrar mis proyectos más representativos y cómo contacto.
 
-Here are some ideas to get you started:
+## 🌟 Proyectos destacados
+- [Sistema Aerolínea MVC](#) — Gestión de vuelos, clientes y pasajes con cálculo de precio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tecnologías
+C#, .NET, ASP.NET MVC, Entity Framework Core, SQL Server, HTML, CSS, JavaScript
+
+## 📫 Contacto
+- LinkedIn: https://www.linkedin.com/in/bruno-sencion-dev/
+- Email: contacto.brunosencion@gmail.com
+
+---
+> Este README es el “portada” de mi perfil: los repos destacados están más abajo.
