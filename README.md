@@ -5,7 +5,7 @@ Soy estudiante de Analista Programador en ORT (Uruguay). Me enfoco en backend .N
 Acá vas a encontrar mis proyectos más representativos y cómo contactarme.
 
 ## 🌟 Proyectos destacados
-- [Sistema Aerolínea MVC](#) — Gestión de vuelos, clientes y pasajes con cálculo de precio.
+- [SistemaAerolínea](#) — Gestión de vuelos, clientes y pasajes con cálculo de precio.
 
 ## 🧰 Tecnologías
 C#, .NET, ASP.NET MVC, Entity Framework Core, SQL Server, HTML, CSS, JavaScript
